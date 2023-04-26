@@ -1,1 +1,21 @@
-This is my first github repository file
+
+# Experiment 1a
+# python program is used to demonstrate basic datastructure
+
+list=[1,2,3,'python',2.3]
+print(list)
+
+dict={'name':'python','num':[1,2,3]}
+print(dict)
+
+tup=(1,2,3,['hindi','python'])
+print(tup)
+
+mixed_set={'hello',101,-2,'eye'}
+print(mixed_set)
+
+output:
+[1, 2, 3, 'python', 2.3]
+{'name': 'python', 'num': [1, 2, 3]}
+(1, 2, 3, ['hindi', 'python'])
+{'eye', 101, -2, 'hello'}
